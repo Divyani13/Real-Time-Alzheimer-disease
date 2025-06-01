@@ -43,10 +43,10 @@ Press "Reset Blink Count" to start blink counting again.
 After 60 seconds, results will display whether blink frequency is within a healthy range.
 🧠 Cognitive Tests
 
-Gaze Tracking:
+Gaze Tracking: Click "Start Gaze Test" to track eye movement for 60 seconds.
 
-Click "Start Gaze Test" to track eye movement for 60 seconds.
 Speech Recognition: Read the given paragraph aloud and press "Start Speech Test".
+
 Results will show spoken text and match accuracy with the original paragraph.
 
 📈 Result Interpretation
